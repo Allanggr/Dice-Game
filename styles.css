@@ -1,0 +1,48 @@
+body{
+  background-color: #5d5d5d;
+}
+
+h1{
+  font-size: 7rem;
+  color: #6bc5d2;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.flag{
+  color: red;
+}
+
+p{
+  text-align: center;
+}
+
+.row{
+  padding-top: 20px;
+}
+/* Players paragraph */
+.player1{
+  color: #6bc5d2;
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+  margin-left: 40%;
+}
+
+.player2{
+  color: #6bc5d2;
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+  margin-left: 5%;
+  width: 200px;
+}
+
+/* Dice Classes */
+.dice1{
+  margin-left: 50%;
+}
+
+.dice2{
+  margin-right: 30%;
+}
